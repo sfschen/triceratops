@@ -1,8 +1,8 @@
 # triceratops
 
-<img src="logo.png" width="400" height="400"/>
+<img src="logo.png" width="300" height="300"/>
 
-
+(Image courtesy of GPT-4o)
 
 A Python code to compute bispectra in LPT. A cousin of velocileptors and spinosaurus.
 
