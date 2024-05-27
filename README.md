@@ -1,6 +1,6 @@
 # triceratops
 
-<img src="logo.png" width="200" height="200" class="center" />
+<img src="logo.png" width="400" height="400"/>
 
 
 
