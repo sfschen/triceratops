@@ -1,5 +1,8 @@
 # triceratops
 
+<img src="logo.png" width="200" height="200" />
+
+
 ![Triceratops Logo](logo.png)
 
 
