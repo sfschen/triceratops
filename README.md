@@ -4,7 +4,7 @@
 
 (Image courtesy of GPT-4o)
 
-A Python code to compute bispectra in LPT, based on [this paper][https://arxiv.org/abs/2406.00103].
+A Python code to compute bispectra in LPT, based on [2406.00103](https://arxiv.org/abs/2406.00103).
 
 A cousin of velocileptors and spinosaurus.
 
